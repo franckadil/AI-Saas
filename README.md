@@ -4,7 +4,7 @@
 
 
 
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe.
+This is a repository for a prototype SaaS AI Generation Platform.
 
 
 
@@ -82,6 +82,8 @@ npx prisma db push
 ```shell
 npm run dev
 ```
+# Stack:
+Next.js, Tailwind, Prisma, Stripe.
 
 ## Available commands
 
